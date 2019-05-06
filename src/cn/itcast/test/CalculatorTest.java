@@ -13,8 +13,5 @@ public class CalculatorTest {
         Calculator calculator = new Calculator();
         int result = calculator.add(1,2);
         Assert.assertEquals(3,result);
-        System.out.println(1);
-        System.out.println(2);
-        System.out.println(3);
     }
 }

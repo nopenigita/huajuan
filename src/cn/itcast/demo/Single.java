@@ -1,3 +1,5 @@
+package cn.itcast.demo;
+
 public class Single {
 
     private Single(){}

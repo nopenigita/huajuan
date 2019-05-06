@@ -1,3 +1,5 @@
+package cn.itcast.demo;
+
 public class ThreadOrange {
     static int zong = 9;
     static int a = 3;

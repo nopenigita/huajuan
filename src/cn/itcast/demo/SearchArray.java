@@ -1,3 +1,5 @@
+package cn.itcast.demo;
+
 public class SearchArray {
     public static void main(String[] args) {
         int[] ints = new int[]{};
