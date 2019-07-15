@@ -18,6 +18,8 @@ public class Generic {
         useColl(coll);
         useColl(coll1);
         useColl(coll2);
+        Generic generic = new Generic();
+        generic.call();
     }
 
     /**
@@ -29,5 +31,9 @@ public class Generic {
      *  只能接收Number及其父类
      */
     public static void useColl(Collection<?> coll){
+    }
+
+    public void call(){
+
     }
 }

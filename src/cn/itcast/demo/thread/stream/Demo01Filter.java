@@ -17,7 +17,7 @@ public class Demo01Filter {
         //获取一个子集流 要求 名字长度是2的
         Stream<String> two = one.filter((code) -> code.length() == 2);
 
-        //使用了一个foreach 获取流中的每一个元素 参数是一个消费接口
+        //使用了一个foreach 获取流中的每一个元素 接收参数是一个消费式函数式接口
         two.forEach(System.out::println);
     }
 }
