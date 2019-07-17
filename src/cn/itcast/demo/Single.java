@@ -1,5 +1,9 @@
 package cn.itcast.demo;
 
+/**
+ * @author huajuan
+ * 单例模式 懒汉式 * 推荐使用 *
+ */
 public class Single {
 
     private Single(){}

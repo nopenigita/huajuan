@@ -21,5 +21,11 @@ public class JDK9 {
 
         Map<String,Integer> map = Map.of("键",1,"值",2);
         System.out.println(map);
+
+        System.out.println(JDK9.class);
+
+        Single instance1 = Single.getInstance();
+        Single instance = Single.getInstance();
+        System.out.println(instance1 == instance);
     }
 }
