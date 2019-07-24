@@ -1,8 +1,9 @@
-package cn.itcast.demo;
+package cn.itcast.demo.exercise;
 
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 /**
  * @author : huajuan
@@ -12,10 +13,12 @@ import java.util.Set;
  * @program: basics
  **/
 public class JDK9 {
+
     public static void main(String[] args) {
         List<String> list = List.of("1","2","3");
         System.out.println(list);
-
+        List<String> collect = list.stream().filter(s -> s.length() != 0).collect(Collectors.toList());
+        System.out.println(collect.size());
         Set<String> set = Set.of("4","5","6");
         System.out.println(set);
 
@@ -27,5 +30,7 @@ public class JDK9 {
         Single instance1 = Single.getInstance();
         Single instance = Single.getInstance();
         System.out.println(instance1 == instance);
+
+        System.out.println(Math.round(1.5));
     }
 }

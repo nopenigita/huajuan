@@ -1,4 +1,4 @@
-package cn.itcast.demo;
+package cn.itcast.demo.exercise;
 
 /**
  * @author : huajuan
@@ -7,17 +7,17 @@ package cn.itcast.demo;
  * remark :
  * @program: basics
  **/
-public class MyException extends RuntimeException{
+public class MyException extends RuntimeException {
     /**
      * 自定义异常
      * 1:继承异常类
      * 2:写空参和有参构造
      */
-    public MyException(){
+    public MyException() {
         super();
     }
 
-    public MyException(String message){
+    public MyException(String message) {
         super(message);
     }
 }

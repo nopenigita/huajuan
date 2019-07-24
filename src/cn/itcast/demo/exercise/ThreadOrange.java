@@ -1,4 +1,4 @@
-package cn.itcast.demo;
+package cn.itcast.demo.exercise;
 
 public class ThreadOrange {
     static int zong = 9;

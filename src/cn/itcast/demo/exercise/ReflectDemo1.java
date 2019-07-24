@@ -1,4 +1,4 @@
-package cn.itcast.demo;
+package cn.itcast.demo.exercise;
 
 import java.lang.reflect.Method;
 
@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
 public class ReflectDemo1 {
     public static void main(String[] args) throws Exception {
         //多用于配置文件,将类名定义在配置文件中.读取文件
-        Class cls1 = Class.forName("cn.itcast.demo.Person");
+        Class cls1 = Class.forName("cn.itcast.demo.exercise.Person");
         System.out.println(cls1);
         System.out.println("-----------------------");
         //多用于参数的传递

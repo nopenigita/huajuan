@@ -1,4 +1,4 @@
-package cn.itcast.demo;
+package cn.itcast.demo.exercise;
 
 import java.util.ArrayList;
 import java.util.Collection;

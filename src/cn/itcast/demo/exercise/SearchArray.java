@@ -1,4 +1,4 @@
-package cn.itcast.demo;
+package cn.itcast.demo.exercise;
 
 public class SearchArray {
     public static void main(String[] args) {
