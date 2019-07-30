@@ -14,7 +14,7 @@ public class Apple implements Serializable {
     private Integer id;
     private String name;
     private BigDecimal money;
-    private Integer num;
+    private transient Integer num;
 
     public Integer getId() {
         return id;

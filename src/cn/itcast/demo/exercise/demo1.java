@@ -26,6 +26,7 @@ public class demo1 {
         appleList.add(apple12);
         Map<Integer, List<Apple>> groupBy = appleList.stream().filter(s -> s != null).collect(Collectors.groupingBy(Apple::getId));
         System.out.println("groupBy:"+groupBy);
+        appleList.stream().forEach(Apple :: getId);
 //        System.out.println(groupBy.get(1));
 
 //        Map<Integer, Apple> appleMap = appleList.stream().collect(Collectors.toMap(Apple::getId, a -> a,(k1,k2)->k1));
