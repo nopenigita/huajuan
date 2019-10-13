@@ -15,7 +15,6 @@ public class Demo {
         //1 创建包子资源对象
         BaoZi bz = new BaoZi();
 
-
         //2 创建包子铺对象
         BaoZiPu bzp = new BaoZiPu(bz);
 

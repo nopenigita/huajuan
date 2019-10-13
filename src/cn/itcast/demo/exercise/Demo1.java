@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
  * remark :
  * @program: basics
  **/
-public class demo1 {
+public class Demo1 {
     public static void main(String[] args) {
         List<Apple> appleList = new ArrayList<>();
         Apple apple1 =  new Apple(1,"苹果1",new BigDecimal("3.25"),10);

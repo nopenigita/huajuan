@@ -11,6 +11,7 @@ public class ThreadOrange {
      * 如果剩余的桔子不够小朋友每次拿的数量，则2只小朋友停止拿桔子，并喊一声“不拿了”。 请用java多线程程序表述上面的过程。
      * @param args
      */
+    @SuppressWarnings("all")
     public static void main(String[] args) {
         Object lock = new Object();
         Thread thread1 = new Thread(new Runnable() {

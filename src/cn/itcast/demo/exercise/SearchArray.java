@@ -7,11 +7,13 @@ public class SearchArray {
 
     }
 
+    @SuppressWarnings("all")
     public static int search(int[] source,int start,int end,int key){
         //取中间值
         int mid = (end - start)/2 + start; //int mid = 5  //(10-1)/2 + 1;
         //如果中间值刚好是要查找的值
-        if(source[mid] == key){ //if(source[5] == 4){}
+        //if(source[5] == 4){}
+        if(source[mid] == key){
             return mid;
         }
         if(start >= end){
