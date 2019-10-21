@@ -1,5 +1,8 @@
 package cn.itcast.demo.exercise;
 
+/**
+ * 二分法
+ */
 public class SearchArray {
     public static void main(String[] args) {
         int[] ints = new int[]{};

@@ -7,7 +7,7 @@ package cn.itcast.demo.thread;
  * remark :
  * @program: basics
  **/
-public class Demo {
+public class Demo{
     public static void main(String[] args) {
         System.out.println("这里是" + Thread.currentThread().getName() + "线程");
 

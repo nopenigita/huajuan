@@ -1,4 +1,4 @@
-package cn.itcast.demo.exercise;
+package cn.itcast.demo.domain;
 
 import java.io.Serializable;
 import java.math.BigDecimal;

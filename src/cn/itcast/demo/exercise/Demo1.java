@@ -1,5 +1,7 @@
 package cn.itcast.demo.exercise;
 
+import cn.itcast.demo.domain.Apple;
+
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package cn.itcast.demo.thread;
+package cn.itcast.demo.utils;
 
 import java.lang.management.ManagementFactory;
 import java.lang.management.OperatingSystemMXBean;
