@@ -23,6 +23,7 @@ public class Demo2 {
         map.forEach((k, v) -> {
             System.out.println(k + v);
         });
-        // 正例:logger.debug("Processing trade with id: {} and symbol: {}", id, symbol);
+
+        // 日志占位符正例:logger.debug("Processing trade with id: {} and symbol: {}", id, symbol);
     }
 }

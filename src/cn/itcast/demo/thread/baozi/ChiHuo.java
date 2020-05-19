@@ -1,5 +1,7 @@
 package cn.itcast.demo.thread.baozi;
 
+import java.util.concurrent.locks.ReentrantLock;
+
 /**
  * @author : huajuan
  * create at : 2019-05-26 22:53
@@ -10,6 +12,8 @@ package cn.itcast.demo.thread.baozi;
 public class ChiHuo extends Thread {
 
     private BaoZi bz;
+
+    ReentrantLock lock = new ReentrantLock();
 
     public ChiHuo(BaoZi bz) {
         this.bz = bz;

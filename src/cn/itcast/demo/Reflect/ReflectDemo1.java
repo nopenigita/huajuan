@@ -8,6 +8,9 @@ import java.lang.reflect.Method;
  * @author : huajuan
  * create at : 2019-05-12 16:09
  * description : 获取class对象的三种方式
+ * 源代码阶段 使用 Class.forName(全类名)
+ * 已经有这个对象了 使用 对象.class
+ * 对象被实例化了 使用 对象.getClass()
  * remark : Reflect反射
  * @program: basics
  **/

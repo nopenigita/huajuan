@@ -2,6 +2,7 @@ package cn.itcast.demo.gene;
 
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.List;
 
 /**
  * @author : huajuan
@@ -34,6 +35,10 @@ public class Generic {
     }
 
     public void call(){
+
+    }
+
+    public static void userColl1(List<? extends Object> list){
 
     }
 }

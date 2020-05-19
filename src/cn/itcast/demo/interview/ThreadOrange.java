@@ -1,5 +1,8 @@
 package cn.itcast.demo.interview;
 
+/**
+ * @author huajuan
+ */
 public class ThreadOrange {
 
     private static int zong = 9;

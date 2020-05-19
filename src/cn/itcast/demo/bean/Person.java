@@ -59,7 +59,7 @@ public class Person {
      */
     @Override
     public boolean equals(Object o) {
-        // 先判断两个对象是否是同一个地址
+        // 先判断两个对象是否是同一个地址(家庭住址一样,那肯定是同一个人)
         if (this == o) {
             return true;
         }
