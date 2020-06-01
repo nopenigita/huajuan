@@ -1,4 +1,4 @@
-package cn.itcast.demo.interview;
+package cn.itcast.demo.thread;
 
 /**
  * @author huajuan

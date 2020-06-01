@@ -15,7 +15,6 @@ public class DemoThreadPool {
     public static void main(String[] args) {
         //1 获取线程池对象
         ExecutorService service = newFixedThreadPool(3);
-
         //2 创建任务对象
         MyRunnable mr = new MyRunnable();
 

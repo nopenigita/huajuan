@@ -1,6 +1,6 @@
 package cn.itcast.demo.utils;
 
-import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang.StringUtils;
 
 /**
  * @author : huajuan
