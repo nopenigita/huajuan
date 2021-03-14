@@ -8,7 +8,7 @@ import java.io.ObjectStreamException;
  */
 public class Single {
     /**
-     * 私有化构造器
+     * 私有化无参构造器
      */
     private Single(){}
 

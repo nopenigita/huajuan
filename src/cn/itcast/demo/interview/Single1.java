@@ -8,6 +8,9 @@ package cn.itcast.demo.interview;
  **/
 public class Single1 {
 
+    /** 私有化构造器 */
+    private Single1(){}
+
     /** 静态内部类 */
     private static class SingleInstance{
         private static final Single1 instance = new Single1();
@@ -18,8 +21,6 @@ public class Single1 {
         return SingleInstance.instance;
     }
 
-    /** 私有化构造器 */
-    private Single1(){}
 }
 
 class SingleDemo{

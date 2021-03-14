@@ -5,22 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1a22f19-97ba-4624-be08-cc784a21c7d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/demo/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/utils/AesUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/utils/EncryptUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/utils/EncryptUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/demo/Demo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/basics/META-INF/basics.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/interview/ThreadOrange$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/interview/ThreadOrange$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/interview/ThreadOrange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/thread/threadPool/DemoThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/thread/threadPool/DemoThreadPool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/utils/ResultDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/utils/ResultDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/annotation/MyAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/annotation/MyAnnotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/demo/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/demo/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/demo/JDK9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/demo/JDK9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/demo/ListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/demo/ListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/demo/SystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/demo/SystemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/interview/Single1$SingleInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/interview/Single1$SingleInstance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/interview/Single1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/interview/Single1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/interview/SingleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/interview/SingleDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/utils/AesUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/cn/itcast/demo/utils/AesUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/annotation/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/annotation/MyAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/interview/ThreadOrange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/thread/ThreadOrange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/thread/threadPool/DemoThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/thread/threadPool/DemoThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/utils/ResultDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/utils/ResultDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/bean/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/bean/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/demo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/demo/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/demo/JDK9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/demo/JDK9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/demo/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/demo/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/demo/SystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/demo/SystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/enumPackage/SeasonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/enumPackage/SeasonEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/interview/Single.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/interview/Single.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/interview/Single1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/interview/Single1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/itcast/demo/utils/AesUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/itcast/demo/utils/AesUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +66,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -125,7 +132,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -138,7 +145,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AesUtils (1)">
+  <component name="RunManager" selected="Application.Demo3">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -146,13 +153,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="AesUtils (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.utils.AesUtils" />
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.demo.Demo3" />
       <module name="basics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.demo.utils.*" />
+          <option name="PATTERN" value="cn.itcast.demo.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,21 +167,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AesUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AesUtils" />
-      <module name="basics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo01Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.thread.stream.Demo01Filter" />
+    <configuration name="Demo888" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.Demo888" />
       <module name="basics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.demo.thread.stream.*" />
+          <option name="PATTERN" value="cn.itcast.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.Reflect.ReflectDemo1" />
+      <module name="basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.demo.Reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,33 +201,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncryptUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FileTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.demo.utils.*" />
+          <option name="PATTERN" value="cn.itcast.demo.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.itcast.demo.utils" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.utils.EncryptUtilsTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="cn.itcast.demo.file" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.file.FileTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncryptUtilsTest.EncryptUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NewInstanceTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.demo.utils.*" />
+          <option name="PATTERN" value="cn.itcast.demo.Reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.itcast.demo.utils" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.utils.EncryptUtilsTest" />
-      <option name="METHOD_NAME" value="EncryptUtilsTest" />
+      <option name="PACKAGE_NAME" value="cn.itcast.demo.Reflect" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.Reflect.NewInstanceTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -247,19 +261,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo01Filter" />
-      <item itemvalue="JUnit.EncryptUtilsTest.EncryptUtilsTest" />
-      <item itemvalue="JUnit.EncryptUtilsTest" />
-      <item itemvalue="Application.AesUtils" />
-      <item itemvalue="Application.AesUtils (1)" />
+      <item itemvalue="Application.ReflectDemo1" />
+      <item itemvalue="Application.Demo888" />
+      <item itemvalue="Application.Demo3" />
+      <item itemvalue="JUnit.FileTest.test" />
+      <item itemvalue="JUnit.NewInstanceTest.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AesUtils (1)" />
-        <item itemvalue="Application.AesUtils" />
-        <item itemvalue="JUnit.EncryptUtilsTest.EncryptUtilsTest" />
-        <item itemvalue="JUnit.EncryptUtilsTest" />
-        <item itemvalue="Application.Demo01Filter" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Demo888" />
+        <item itemvalue="JUnit.FileTest.test" />
+        <item itemvalue="JUnit.NewInstanceTest.test1" />
+        <item itemvalue="Application.ReflectDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +419,24 @@
       <workItem from="1590975948833" duration="444000" />
       <workItem from="1590976409782" duration="28000" />
       <workItem from="1590976451556" duration="29000" />
-      <workItem from="1590976494604" duration="6709000" />
+      <workItem from="1590976494604" duration="12519000" />
+      <workItem from="1591192964489" duration="42000" />
+      <workItem from="1592315774946" duration="822000" />
+      <workItem from="1592496747400" duration="3594000" />
+      <workItem from="1594653717630" duration="2068000" />
+      <workItem from="1596461693619" duration="171000" />
+      <workItem from="1596462694032" duration="23000" />
+      <workItem from="1596905919512" duration="1000" />
+      <workItem from="1596905925291" duration="704000" />
+      <workItem from="1598715863771" duration="3689000" />
+      <workItem from="1598724322613" duration="427000" />
+      <workItem from="1600327460862" duration="18000" />
+      <workItem from="1603028406032" duration="98000" />
+      <workItem from="1605018903543" duration="918000" />
+      <workItem from="1606634203554" duration="1208000" />
+      <workItem from="1611839225555" duration="461000" />
+      <workItem from="1615209271094" duration="518000" />
+      <workItem from="1615303103001" duration="502000" />
     </task>
     <servers />
   </component>
@@ -413,115 +444,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="646" y="212" key="#Custom_Plugin_Repositories" timestamp="1590976306070">
-      <screen x="0" y="23" width="1680" height="941" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom" timestamp="1615209790991">
+      <screen x="0" y="23" width="1680" height="933" />
     </state>
-    <state x="646" y="212" key="#Custom_Plugin_Repositories/0.23.1680.941@0.23.1680.941" timestamp="1590976306070" />
-    <state x="578" y="266" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1590764381352">
-      <screen x="0" y="23" width="1680" height="941" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.23.1680.933@0.23.1680.933" timestamp="1615209790991" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center" timestamp="1615209790990">
+      <screen x="0" y="23" width="1680" height="933" />
     </state>
-    <state x="578" y="266" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.941@0.23.1680.941" timestamp="1590764381352" />
-    <state x="578" y="267" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.943@0.23.1680.943" timestamp="1587480066026" />
-    <state x="304" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590543013031">
-      <screen x="0" y="23" width="1680" height="941" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.23.1680.933@0.23.1680.933" timestamp="1615209790990" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left" timestamp="1615209790990">
+      <screen x="0" y="23" width="1680" height="933" />
     </state>
-    <state x="304" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.941@0.23.1680.941" timestamp="1590543013031" />
-    <state x="304" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.943@0.23.1680.943" timestamp="1589987162764" />
-    <state x="586" y="370" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1590976478190">
-      <screen x="0" y="23" width="1680" height="941" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.23.1680.933@0.23.1680.933" timestamp="1615209790990" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right" timestamp="1615209790990">
+      <screen x="0" y="23" width="1680" height="933" />
     </state>
-    <state x="586" y="370" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1680.941@0.23.1680.941" timestamp="1590976478190" />
-    <state x="653" y="212" key="#com.intellij.ide.util.MemberChooser" timestamp="1590674589393">
-      <screen x="0" y="23" width="1680" height="941" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.23.1680.933@0.23.1680.933" timestamp="1615209790990" />
+    <state x="505" y="227" width="670" height="676" key="search.everywhere.popup" timestamp="1615303116183">
+      <screen x="0" y="23" width="1680" height="933" />
     </state>
-    <state x="653" y="212" key="#com.intellij.ide.util.MemberChooser/0.23.1680.941@0.23.1680.941" timestamp="1590674589393" />
-    <state x="653" y="212" key="#com.intellij.ide.util.MemberChooser/0.23.1680.943@0.23.1680.943" timestamp="1589818381114" />
-    <state x="691" y="263" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1590330233097">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state x="691" y="263" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.23.1680.941@0.23.1680.941" timestamp="1590330233097" />
-    <state x="578" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589818604491">
-      <screen x="0" y="23" width="1680" height="943" />
-    </state>
-    <state x="578" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.943@0.23.1680.943" timestamp="1589818604491" />
-    <state x="591" y="318" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1590763913793">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state x="591" y="318" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1680.941@0.23.1680.941" timestamp="1590763913793" />
-    <state x="459" y="94" key="CommitChangelistDialog2" timestamp="1587288667559">
-      <screen x="0" y="23" width="1680" height="943" />
-    </state>
-    <state x="459" y="94" key="CommitChangelistDialog2/0.23.1680.943@0.23.1680.943" timestamp="1587288667559" />
-    <state width="432" height="466" key="DebuggerActiveHint" timestamp="1590982856480">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state width="432" height="466" key="DebuggerActiveHint/0.23.1680.941@0.23.1680.941" timestamp="1590982856480" />
-    <state width="1638" height="260" key="GridCell.Tab.0.bottom" timestamp="1590984228429">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state width="1638" height="260" key="GridCell.Tab.0.bottom/0.23.1680.941@0.23.1680.941" timestamp="1590984228429" />
-    <state width="1638" height="202" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1589907908703" />
-    <state width="1638" height="205" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1583906380184" />
-    <state width="1638" height="260" key="GridCell.Tab.0.center" timestamp="1590984228428">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state width="1638" height="260" key="GridCell.Tab.0.center/0.23.1680.941@0.23.1680.941" timestamp="1590984228428" />
-    <state width="1638" height="202" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1589907908703" />
-    <state width="1638" height="205" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1583906380184" />
-    <state width="1638" height="260" key="GridCell.Tab.0.left" timestamp="1590984228427">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state width="1638" height="260" key="GridCell.Tab.0.left/0.23.1680.941@0.23.1680.941" timestamp="1590984228427" />
-    <state width="1638" height="202" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1589907908702" />
-    <state width="1638" height="205" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1583906380183" />
-    <state width="1638" height="260" key="GridCell.Tab.0.right" timestamp="1590984228428">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state width="1638" height="260" key="GridCell.Tab.0.right/0.23.1680.941@0.23.1680.941" timestamp="1590984228428" />
-    <state width="1638" height="202" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1589907908703" />
-    <state width="1638" height="205" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1583906380184" />
-    <state width="1638" height="210" key="GridCell.Tab.1.bottom" timestamp="1590982938653">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state width="1638" height="210" key="GridCell.Tab.1.bottom/0.23.1680.941@0.23.1680.941" timestamp="1590982938653" />
-    <state width="1638" height="212" key="GridCell.Tab.1.bottom/0.23.1680.943@0.23.1680.943" timestamp="1587892500078" />
-    <state width="1638" height="214" key="GridCell.Tab.1.bottom/0.23.1680.947@0.23.1680.947" timestamp="1583131881535" />
-    <state width="1638" height="210" key="GridCell.Tab.1.center" timestamp="1590982938652">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state width="1638" height="210" key="GridCell.Tab.1.center/0.23.1680.941@0.23.1680.941" timestamp="1590982938652" />
-    <state width="1638" height="212" key="GridCell.Tab.1.center/0.23.1680.943@0.23.1680.943" timestamp="1587892500078" />
-    <state width="1638" height="214" key="GridCell.Tab.1.center/0.23.1680.947@0.23.1680.947" timestamp="1583131881534" />
-    <state width="1638" height="210" key="GridCell.Tab.1.left" timestamp="1590982938652">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state width="1638" height="210" key="GridCell.Tab.1.left/0.23.1680.941@0.23.1680.941" timestamp="1590982938652" />
-    <state width="1638" height="212" key="GridCell.Tab.1.left/0.23.1680.943@0.23.1680.943" timestamp="1587892500078" />
-    <state width="1638" height="214" key="GridCell.Tab.1.left/0.23.1680.947@0.23.1680.947" timestamp="1583131881534" />
-    <state width="1638" height="210" key="GridCell.Tab.1.right" timestamp="1590982938652">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state width="1638" height="210" key="GridCell.Tab.1.right/0.23.1680.941@0.23.1680.941" timestamp="1590982938652" />
-    <state width="1638" height="212" key="GridCell.Tab.1.right/0.23.1680.943@0.23.1680.943" timestamp="1587892500078" />
-    <state width="1638" height="214" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1583131881535" />
-    <state x="548" y="127" key="SettingsEditor" timestamp="1590984145134">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state x="548" y="127" key="SettingsEditor/0.23.1680.941@0.23.1680.941" timestamp="1590984145134" />
-    <state x="341" y="133" key="SettingsEditor/0.23.1680.943@0.23.1680.943" timestamp="1589989483572" />
-    <state x="421" y="219" width="837" height="550" key="find.popup" timestamp="1589818167291">
-      <screen x="0" y="23" width="1680" height="943" />
-    </state>
-    <state x="421" y="219" width="837" height="550" key="find.popup/0.23.1680.943@0.23.1680.943" timestamp="1589818167291" />
-    <state x="217" y="221" key="new project wizard" timestamp="1589989316413">
-      <screen x="0" y="23" width="1680" height="943" />
-    </state>
-    <state x="217" y="221" key="new project wizard/0.23.1680.943@0.23.1680.943" timestamp="1589989316413" />
-    <state x="505" y="229" width="670" height="673" key="search.everywhere.popup" timestamp="1590983288886">
-      <screen x="0" y="23" width="1680" height="941" />
-    </state>
-    <state x="505" y="229" width="670" height="673" key="search.everywhere.popup/0.23.1680.941@0.23.1680.941" timestamp="1590983288886" />
-    <state x="505" y="229" width="670" height="674" key="search.everywhere.popup/0.23.1680.943@0.23.1680.943" timestamp="1587400033294" />
+    <state x="505" y="227" width="670" height="676" key="search.everywhere.popup/0.23.1680.933@0.23.1680.933" timestamp="1615303116183" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

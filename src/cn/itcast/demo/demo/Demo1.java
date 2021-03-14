@@ -26,16 +26,33 @@ public class Demo1 {
         appleList.add(apple2);
         appleList.add(apple3);
         appleList.add(apple12);
-        Map<Integer, List<Apple>> groupBy = appleList.stream().filter(s -> s != null).collect(Collectors.groupingBy(Apple::getId));
-        System.out.println("groupBy:"+groupBy);
-        appleList.stream().forEach(Apple :: getId);
-//        System.out.println(groupBy.get(1));
 
-//        Map<Integer, Apple> appleMap = appleList.stream().collect(Collectors.toMap(Apple::getId, a -> a,(k1,k2)->k1));
-//        System.out.println(appleMap);
+        /**
+         * 分组 List里面的对象元素，以某个属性来分组，例如，以id分组，将id相同的放在一起：
+         */
+        Map<Integer, List<Apple>> groupBy = appleList.stream().collect(Collectors.groupingBy(Apple::getId));
+        System.err.println("groupBy:" + groupBy);
 
-//        List<Apple> filterList = appleList.stream().filter(a -> a.getName().equals("香蕉")).collect(Collectors.toList());
-//        List<Apple> collect = appleList.stream().filter(s -> s != null).collect(Collectors.toList());
-//        System.out.println(collect);
+        /**
+         *  List -> Map
+         *  需要注意的是：
+         *  toMap 如果集合对象有重复的key，会报错Duplicate key ....
+         *  apple1,apple12的id都为1。
+         *  可以用 (k1,k2)->k1 来设置，如果有重复的key,则保留key1,舍弃key2
+         */
+        Map<Integer, Apple> appleMap = appleList.stream().collect(Collectors.toMap(Apple::getId, a -> a,(k1,k2)->k1));
+        System.err.println("appleMap:" + appleMap);
+
+        /**
+         * 从集合中过滤出来符合条件的元素
+         */
+        List<Apple> filterList = appleList.stream().filter(a -> a.getName().equals("香蕉")).collect(Collectors.toList());
+        System.err.println("filterList:"+filterList);
+
+        /**
+         * 计算 总金额
+         */
+        BigDecimal totalMoney = appleList.stream().map(Apple::getMoney).reduce(BigDecimal.ZERO, BigDecimal::add);
+        System.err.println("totalMoney:"+totalMoney);
     }
 }

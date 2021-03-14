@@ -12,6 +12,10 @@ public class SystemTest {
         System.out.println(System.getProperty("java.version"));
         // JAVA安装目录
         System.out.println(System.getProperty("java.home"));
-
+        // 获取系统当前毫秒值
+        long l = System.currentTimeMillis();
+        System.out.println(l);
+        // 确定当前的系统属性
+        System.out.println(System.getProperties());
     }
 }

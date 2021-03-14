@@ -82,9 +82,13 @@ public class AesUtils {
     public static void main(String[] args) {
         String s = "hello world";
         String m = aesEncrypt(s);
-        String n = aesDecrypt(m, AES_KEY);
+        String s1 = aesEncrypt(m);
+        String n = aesDecrypt(s1, AES_KEY);
+        String n1 = aesDecrypt(n, AES_KEY);
         System.out.println(m);
         System.out.println(n);
+        System.out.println(s1);
+        System.out.println(n1);
 
     }
 }

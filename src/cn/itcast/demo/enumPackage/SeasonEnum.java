@@ -4,7 +4,7 @@ package cn.itcast.demo.enumPackage;
  * @author : Hiccup
  * create at : 2020/4/21 5:26 下午
  * description :
- * remark : 1: 私有最终常量 2:私有有参构架 3:get方法
+ * remark : 1: 私有最终常量 2:私有有参构造 3:get方法
  **/
 public enum SeasonEnum {
 

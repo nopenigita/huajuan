@@ -16,6 +16,7 @@ public class ListDemo {
         set.add("2");
         set.add("3");
         set.add("3");
+        // [1, 2, 3]
         System.out.println(set);
     }
 
